@@ -2,11 +2,11 @@ module github.com/bepass-org/wireguard-go
 
 go 1.20
 
-replace github.com/Psiphon-Labs/psiphon-tunnel-core => github.com/uoosef/psiphon-tunnel-core v0.0.0-20240126135009-9fbc37b0b068
+replace github.com/Psiphon-Labs/psiphon-tunnel-core => github.com/Psiphon-Labs/psiphon-tunnel-core v2.0.30
 
 require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
-	github.com/Psiphon-Labs/psiphon-tunnel-core v0.0.0-00010101000000-000000000000
+	github.com/Psiphon-Labs/psiphon-tunnel-core v2.0.30
 	github.com/bepass-org/ipscanner v0.0.0-20240205155121-8927b7437d16
 	github.com/bepass-org/proxy v0.0.0-20240201095508-c86216dd0aea
 	github.com/go-ini/ini v1.67.0
