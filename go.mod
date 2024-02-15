@@ -6,7 +6,7 @@ replace github.com/Psiphon-Labs/psiphon-tunnel-core => github.com/Psiphon-Labs/p
 
 require (
 	github.com/MakeNowJust/heredoc/v2 v2.0.1
-	github.com/Psiphon-Labs/psiphon-tunnel-core v2
+	github.com/Psiphon-Labs/psiphon-tunnel-core v1.2.3
 	github.com/bepass-org/ipscanner v0.0.0-20240205155121-8927b7437d16
 	github.com/bepass-org/proxy v0.0.0-20240201095508-c86216dd0aea
 	github.com/go-ini/ini v1.67.0
